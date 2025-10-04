@@ -1,0 +1,10 @@
+[package]
+name = "MinIO_FS_Orchestration"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+parquet = "52.2.0"
+arrow = "52.2.0"
+rayon = "1.11.0"
+log = "0.4.28"

@@ -1,0 +1,14 @@
+pub const SIZE: &String = "size";
+pub const HUMAN_READABLE_SIZE: &String = "hrSize";
+pub const PATH: &String = "path";
+pub const IS_DIRECTORY: &String = "isDirectory";
+pub const IS_OTHER: &String = "isOther";
+pub const IS_REGULAR_FILE: &String = "isRegularFile";
+pub const IS_SYMBOLIC_LINK: &String = "isSymbolicLink";
+pub const PARTITION_FILES: &String = "partitionFiles";
+pub const PARTITIONS: &String = "partitions";
+pub const FORMAT: &String = "format";
+pub const CREATION_TIME: &String = "creationTime";
+pub const HUMAN_READABLE_CREATION_TIME: &String = "hrCreationTime";
+pub const LAST_MODIFIED: &String = "lastModified";
+pub const HUMAN_READABLE_LAST_MODIFIED: &String = "hrLastModified";
