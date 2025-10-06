@@ -9,12 +9,7 @@ terraform {
 
 provider minio {
   // required
-  minio_server   = "..."
-  minio_user     = "..."
-  minio_password = "..."
-
-  // optional
-  minio_region      = "..."
-  minio_api_version = "..."
-  minio_ssl         = "..."
+  minio_server   = "127.0.0.1:9000"
+  minio_user     = "jamolina"
+  minio_password = "du7s!jd9sQ2"
 }

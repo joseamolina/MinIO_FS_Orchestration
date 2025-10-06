@@ -9,5 +9,5 @@ services:
     volumes:
       - ./data:/data
     environment:
-      - MINIO_ROOT_USER=mockuser
-      - MINIO_ROOT_PASSWORD=mockpass
+      - MINIO_ROOT_USER=jamolina
+      - MINIO_ROOT_PASSWORD=du7s!jd9sQ2
